@@ -4,7 +4,6 @@ import router from './router'
 import store from './store'
 import 'cesium/Widgets/widgets.css'
 
-
 Vue.config.productionTip = false
 
 new Vue({
